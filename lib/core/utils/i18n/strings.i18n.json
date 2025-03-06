@@ -1,0 +1,12 @@
+{
+  "map": {
+    "header": {
+      "title": "Map"
+    },
+    "inactive": {
+      "title": "No active trips",
+      "description": "You do not have any reservations. Make a purchase to see your bus on the map.",
+      "buttonText": "Click here to make a reservation"
+    }
+  }
+}

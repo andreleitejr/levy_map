@@ -1,0 +1,12 @@
+{
+  "map": {
+    "header": {
+      "title": "Mapa"
+    },
+    "inactive": {
+      "title": "No hay viajes activos",
+      "description": "No tienes ninguna reserva. Realiza una compra para ver tu autobús en el mapa.",
+      "buttonText": "Haz clic aquí para hacer una reserva"
+    }
+  }
+}

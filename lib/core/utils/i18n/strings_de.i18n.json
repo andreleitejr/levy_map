@@ -1,0 +1,12 @@
+{
+  "map": {
+    "header": {
+      "title": "Karte"
+    },
+    "inactive": {
+      "title": "Keine aktiven Fahrten",
+      "description": "Sie haben keine Reservierungen. Kaufen Sie ein Ticket, um Ihren Bus auf der Karte zu sehen.",
+      "buttonText": "Hier klicken, um eine Reservierung vorzunehmen"
+    }
+  }
+}

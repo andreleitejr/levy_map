@@ -1,4 +1,4 @@
-import 'package:levy_core/core.dart';
+import 'package:levy_map/core/utils/i18n/strings.g.dart';
 
 final class MapTranslation {
   const MapTranslation._();
